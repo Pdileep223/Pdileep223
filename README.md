@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dileep Kumar Padala
-- 👀 I’m interested in Backend Java Development, Machine Learning
+- 👀 I’m interested in Software Delvelopment, Machine Learning
 - 🌱 I’m currently learning Machine Learning  
 - 💞️ I’m looking to collaborate on exceiting projects on Machine Learning and Data Science
 - 📫 How to reach me: You can reach me at dileepkumarpadala@gmail.com
